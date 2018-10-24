@@ -80,7 +80,6 @@ while i==0:
 			elif(d=="stumper ball"):
 				cart.append(d)
 				price=price+40
-				
 	if(b=="sanitary"):
 		print("select any of soaps,shampoos,facewash")
 		c=input("select any of the above:")
