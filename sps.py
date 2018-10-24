@@ -12,7 +12,7 @@ for i in range(c):
 		print("yourscore:",yourscore)
 		print("cpu:",cpu)
 	elif(a=="stone" and b=="scissors"):
-		cpu+=1
+		cpu+=1 
 		print("cpu's choice",a)
 		print("yourscore:",yourscore)
 		print("cpu:",cpu)
