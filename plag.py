@@ -13,4 +13,3 @@ for i,j in zip(k,m):
 	s=j.get_text()
 	print(s)
 	print(t)
-
