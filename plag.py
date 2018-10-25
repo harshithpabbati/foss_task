@@ -11,5 +11,5 @@ m=soup.select("cite")
 for i,j in zip(k,m):
 	t=i.get_text()
 	s=j.get_text()
-	print(s)
 	print(t)
+	print(s)
